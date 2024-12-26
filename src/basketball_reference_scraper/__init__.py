@@ -91,6 +91,7 @@ def get_columns(df: pd.DataFrame, bsc_adv: str):
         "TOV",
         "PF",
         "PTS",
+        "GMSC",
         "PLUS_MINUS",
     ]
     adv_columns = [
